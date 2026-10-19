@@ -1,0 +1,10 @@
+{
+  "name": "손금 사주 (Palm & Saju) - AI 손금 분석 및 토스페이먼츠 연동 사주 풀이",
+  "description": "스마트폰 손바닥 촬영으로 실시간 손금을 분석하고, 토스페이먼츠 결제 연동으로 정통 만세력과 AI 심층 사주 풀이를 제공하는 안드로이드 및 백엔드 솔루션입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
